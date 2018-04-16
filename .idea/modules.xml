@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Base.iml" filepath="$PROJECT_DIR$/Base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionsBase/CollectionsBase.iml" filepath="$PROJECT_DIR$/CollectionsBase/CollectionsBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignBase/DesignBase.iml" filepath="$PROJECT_DIR$/DesignBase/DesignBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JVMBase/JVMBase.iml" filepath="$PROJECT_DIR$/JVMBase/JVMBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MySqlBase/MySqlBase.iml" filepath="$PROJECT_DIR$/MySqlBase/MySqlBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RedisBase/RedisBase.iml" filepath="$PROJECT_DIR$/RedisBase/RedisBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBase/SpringBase.iml" filepath="$PROJECT_DIR$/SpringBase/SpringBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadBase/ThreadBase.iml" filepath="$PROJECT_DIR$/ThreadBase/ThreadBase.iml" />
+    </modules>
+  </component>
+</project>
